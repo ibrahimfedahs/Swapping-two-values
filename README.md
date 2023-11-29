@@ -18,8 +18,13 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-
-
+```
+a=int(input())
+b=int(input())
+print("Swapped values are:" ,b ,a)
+```
+#OUTPUT:
+![image](https://raw.githubusercontent.com/ibrahimfedahs/Swapping-two-values/main/python%20ex%201%20screen%20shot.png)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
